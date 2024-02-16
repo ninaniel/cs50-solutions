@@ -1,0 +1,9 @@
+sys
+requests
+bs4
+random
+openpyxl
+tabulate
+fpdf
+datetime
+pytest
